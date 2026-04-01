@@ -27,10 +27,9 @@ Tenho experiência com **suporte técnico**, **manutenção de sistemas**, **vir
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-111827?style=for-the-badge&logo=ubuntu&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/VirtualBox-111827?style=for-the-badge&logo=virtualbox&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=39FF14" />
+  <img src="https://img.icons8.com/color/48/kali-linux.png"/>
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
+  <img src="https://img.icons8.com/color/48/virtualbox.png"/>
 </p>
 
 ---
