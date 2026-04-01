@@ -27,8 +27,8 @@ Tenho experiência com **suporte técnico**, **manutenção de sistemas**, **vir
 </p>
 
 <p align="center">
+  <img src="https://img.icons8.com/color/48/linux--v1.png"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png"/>
-  <img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
   <img src="https://img.icons8.com/color/48/virtualbox.png"/>
 </p>
 
