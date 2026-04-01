@@ -1,28 +1,37 @@
 <h1 align="center">👨‍💻 Henrique Santos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Seguran%C3%A7a+Cibern%C3%A9tica+%7C+Redes+%7C+Infraestrutura;Sistemas+de+Informa%C3%A7%C3%A3o+-+UFU;Projetos+em+C+%7C+Suporte+de+TI;Always+learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Ciberseguran%C3%A7a+%7C+Redes+%7C+Infraestrutura;Sistemas+de+Informa%C3%A7%C3%A3o+-+UFU;Kali+Linux+%7C+Ubuntu+Server+%7C+VirtualBox;Programa%C3%A7%C3%A3o+em+C+%7C+Suporte+de+TI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henriqueesant0s&label=VISITAS&color=39FF14&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=henriqueesant0s&label=VISITAS&color=39FF14&style=for-the-badge" alt="contador de visitas" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:39FF14&height=2&section=header" />
+</p>
 
 ## 🟢 Sobre mim
 
 💻 Estudante de **Sistemas de Informação - UFU**  
 🔐 Foco em **Cibersegurança, Redes e Infraestrutura**  
 🛠️ Experiência com **Suporte Técnico e manutenção de sistemas**  
-🚀 Em constante evolução na área de tecnologia  
+🚀 Interesse em ambientes Linux, virtualização e programação
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,linux,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-39FF14?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-39FF14?style=for-the-badge&logo=ubuntu&logoColor=black" />
+  <img src="https://img.shields.io/badge/VirtualBox-39FF14?style=for-the-badge&logo=virtualbox&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-39FF14?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
 ---
@@ -53,6 +62,7 @@
 - 🔐 Segurança Cibernética  
 - 🌐 Redes de Computadores  
 - 🖥️ Infraestrutura de TI  
+- 🐧 Linux e Virtualização  
 - 💻 Programação em C  
 - ⚙️ Suporte Técnico  
 
@@ -62,7 +72,7 @@
 
 <p align="left">
   <a href="mailto:henrique.esantos153@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-henrique.esantos153%40gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/henrique-eugenio-dos-santos-59a48332a">
     <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Santos-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" />
