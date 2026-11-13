@@ -6,8 +6,8 @@ Atuo com foco em **Infraestrutura, Redes, Cibersegurança e Robótica**, combina
 
 ### Atuação Acadêmica & Extensão
 
-- **[MonteBot](https://github.com/MonteBot):** Membro da equipe acadêmica de robótica da UFU (campus Monte Carmelo), atuando no desenvolvimento de projetos de robótica e sistemas autônomos.
-- **LINA:** Membro da Liga Acadêmica de Robótica e Inteligência Artificial da UFU, participando de estudos e aplicações práticas de IA e robótica.
+- **[MonteBot](https://github.com/monte-bot):** Membro da equipe acadêmica de robótica da UFU (campus Monte Carmelo), atuando no desenvolvimento de projetos de robótica e sistemas autônomos.
+- **[LINA](https://lina.facom.ufu.br/):** Membro da Liga Acadêmica de Robótica e Inteligência Artificial da UFU, participando de estudos e aplicações práticas de IA e robótica.
 
 ---
 
